@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // 4. Credenciales y Datos Específicos
     const validUser = "02250062011";
-    const validPass = "Sebas2202";
+    const validPass = "Sebas22022";
     const studentName = "SEBASTIAN CAMILO FUENTES TRIANA";
     
     // NOTA: En JS usamos punto para decimales (4.22), pero lo mostramos con coma.
@@ -165,5 +165,6 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
     });
+
 
 });
